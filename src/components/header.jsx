@@ -101,8 +101,8 @@ const navigate = useNavigate();
       // no path here as requested
       subItems: [
         { labelEn: 'NEXSO', labelAr: 'تسوق',href: 'https://nexso.com' },
-        { labelEn: 'VELLORE PARIS', labelAr: 'الفئات', href: 'https://velloreparis.com' },
-        { labelEn: 'GRAHAAM', labelAr: 'العروض', href: 'https://grahaam.com' },
+        { labelEn: 'LUXURY WATCH DEALS', labelAr: 'الفئات', href: 'https://theluxurywatchdeals.com' },
+        { labelEn: 'ARMED', labelAr: 'العروض', href: 'https://armed.ae' },
         { labelEn: 'STORE1920', labelAr: 'العروض', href: 'https://store1920.com' },
 
       ],
