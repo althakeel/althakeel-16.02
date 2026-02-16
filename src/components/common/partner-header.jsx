@@ -65,8 +65,8 @@ const [topBarVisible, setTopBarVisible] = useState(true);
       label: isArabic ? 'التجارة الإلكترونية' : 'ECOMMERCE',
        dropdown: [
         { label: 'NEXSO', href: 'https://nexso.ae' },
-        { label: 'VELLORE PARIS', href: 'https://velloreparis.com' },
-        { label: 'GRAHAAM', href: 'https://grahaam.com' },
+        { label: 'LUXURY WATCH DEALS', href: 'https://theluxurywatchdeals.com' },
+        { label: 'ARMED', href: 'https://armed.ae' },
         { label: 'STORE1920', href: 'https://store1920.com' },
       ],
     },
